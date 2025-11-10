@@ -18,4 +18,4 @@ guys how is going''')
 # inside the statement not as same in print statement (or)using slash we can separate
 #them.
 
-print("Enter the \"SQL\" command. please implemnt 'PYTHON' and 'JAVA' ")
+print("Enter the \"SQL\" command. please implemnt 'PYTHON' ")
